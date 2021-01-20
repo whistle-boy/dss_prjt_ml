@@ -48,6 +48,6 @@
 
 
 기여자
-* 김준성(AKA 튜닝몬스터) https://github.com/whistle-boy
-* 방희란(AKA 판다스의 신) https://github.com/Heeran-cloud
-* 정혜주(AKA 논문통찰자) https://github.com/hjung53
+* 김준성(a.k.a 튜닝몬스터) https://github.com/whistle-boy
+* 방희란(a.k.a 판다스의 신) https://github.com/Heeran-cloud
+* 정혜주(a.k.a 논문통찰자) https://github.com/hjung53

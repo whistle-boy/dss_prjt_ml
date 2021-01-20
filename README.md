@@ -15,7 +15,7 @@ SOCAR 보험사기 예측 프로젝트
 테스트셋을 기준으로 하며, Support Vector Machine 모델로 진행되었다고 한다. <br>
 * Baseline Metric : accuracy 0.492791, precision 0.003153, recall 0.714286 <br>
 
-데이터 불균형으로 인하여, 모든 사고를 "No Fraud"로 예측하더라도 accuracy는 0.99임으로 accuracy는 중요한 평가의 척도가 되기는 어려워 보인다. 하여, 실제 보험사기중에 얼마나 많이 예측해냈는지를 나타내는 recall과, 예측한 보험사기중에 얼마나 많은 실제 보험사기가 있었느냐를 나타내는 precision을 중요한 평가 기준으로 하였다.
+데이터 불균형으로 인하여, 모든 사고를 "No Fraud"로 예측하더라도 accuracy는 0.99임으로 accuracy는 중요한 평가의 척도가 되기는 어려워 보인다. 하여, 실제 보험사기중에 얼마나 많이 예측해냈는지를 나타내는 recall과, 예측한 보험사기중에 얼마나 많은 실제 보험사기가 있었느냐를 나타내는 precision을 중요한 평가 기준으로 하였다. <br><br>
 <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="600" height="200"/>
 
 #### 보험사기 소개

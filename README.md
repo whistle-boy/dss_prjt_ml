@@ -26,7 +26,9 @@ SOCAR 보험사기 예측 프로젝트
 본론
 =================================================
 
-본 프로젝트에서는 트리 계열의 모델 중 Decision Tree, Random Forest, LightGBM과 경사하강법 기반의 Logistic Regression 모델을 사용하였다. 최적의 예측 모델은 LightGBM으로 accuracy 0.964114, precision 0.043478, recall 0.714286의 성능을 얻을 수 있었다.
+본 프로젝트에서는 트리 계열의 모델 중 Decision Tree, Random Forest, LightGBM과 경사하강법 기반의 Logistic Regression 모델을 사용하였다. <br>
+최적의 예측 모델은 아래와 같다.
+* LightGBM accuracy 0.964114, precision 0.043478, recall 0.714286
 나머지 3가지 모델에서도 Baseline 대비 뛰어난 성능을 만들어낼 수 있었다. <br>
 
 

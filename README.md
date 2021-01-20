@@ -12,8 +12,8 @@ SOCAR 보험사기 예측 프로젝트
 
 #### 프로젝트 평가 기준
 해당 프로젝트는 패스트캠퍼스 데이터사이언티스트 15기 과정 중 일부로 진행되었다. 하여, 이전 14기수에서 동일한 프로젝트로 진행하면서 얻었던 성능을 Baseline으로 두어 보다 향상된 모델을 만들고자 하였다. <br>
-테스트셋을 기준으로 하며, Support Vector Machine 모델로 진행되었다고 한다. <br>
-* Baseline Metric : accuracy 0.492791, precision 0.003153, recall 0.714286 <br>
+테스트셋을 기준으로 한다. <br>
+* Baseline Metric : [Support Vector Machine] accuracy 0.492791, precision 0.003153, recall 0.714286 <br>
 
 데이터 불균형으로 인하여, 모든 사고를 "No Fraud"로 예측하더라도 accuracy는 0.99임으로 accuracy는 중요한 평가의 척도가 되기는 어려워 보인다. 하여, 실제 보험사기중에 얼마나 많이 예측해냈는지를 나타내는 recall과, 예측한 보험사기중에 얼마나 많은 실제 보험사기가 있었느냐를 나타내는 precision을 중요한 평가 기준으로 하였다. <br><br>
 <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="600" height="200"/>
@@ -28,7 +28,7 @@ SOCAR 보험사기 예측 프로젝트
 
 본 프로젝트에서는 트리 계열의 모델 중 Decision Tree, Random Forest, LightGBM과 경사하강법 기반의 Logistic Regression 모델을 사용하였다. <br>
 최적의 예측 모델은 아래와 같다.
-* LightGBM accuracy 0.964114, precision 0.043478, recall 0.714286
+* [LightGBM] accuracy 0.964114, precision 0.043478, recall 0.714286 <br>
 나머지 3가지 모델에서도 Baseline 대비 뛰어난 성능을 만들어낼 수 있었다. <br>
 
 

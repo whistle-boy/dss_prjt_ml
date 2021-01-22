@@ -12,6 +12,28 @@
 # SOCAR Auto Insurance Fraud
 
 
-The project aims to predict auto insurance fraud using a car accident data set provided by SOCAR, a leading car sharing service in South Korea. The porject 
+?? working with imbalanced data? and 
+The project aims to predict auto insurance fraud  
 
+
+The insurane fraude data set resmbles extremely 
+
+
+?? 개념설명 ??
+
+Through detecting fraudulant insurance claimn
 16,000 car crash data provided by SOCAR, a leading car sharing service in South Korea. The 
+
+
+
+Contents:
+
+1. Problem Statement
+2. Executive Summay
+2. About the Data
+3. Baseline Score
+Explortory 
+
+
+
+

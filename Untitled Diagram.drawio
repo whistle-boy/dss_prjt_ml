@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" modified="2021-01-22T14:19:56.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Whale/2.8.108.15 Safari/537.36" etag="REIqegBLdIcrE-vdXqsZ" version="13.10.8" type="github">
+  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="1399" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mk796hQfW07lgpaCvDOb-98" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-96" target="Mk796hQfW07lgpaCvDOb-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-129" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-96" target="Mk796hQfW07lgpaCvDOb-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-96" value="Data Collection" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-100" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-97" target="Mk796hQfW07lgpaCvDOb-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-127" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-97" target="Mk796hQfW07lgpaCvDOb-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-97" value="Exploratory Data Analysis" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-102" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-99" target="Mk796hQfW07lgpaCvDOb-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-131" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-99" target="Mk796hQfW07lgpaCvDOb-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-106" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-101" target="Mk796hQfW07lgpaCvDOb-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-133" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-101" target="Mk796hQfW07lgpaCvDOb-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-101" value="Modeling" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-141" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-105" target="Mk796hQfW07lgpaCvDOb-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-148" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="313" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-135" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-121" target="Mk796hQfW07lgpaCvDOb-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-137" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-121" target="Mk796hQfW07lgpaCvDOb-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-121" value="Data Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-126" value="1. Features&lt;br&gt;2. Correlations" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-128" value="Train/Test Data Split" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-130" value="Oversampling" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-132" value="Decision Tree Classifier" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-134" value="Drop Features by Feature Importances of the Previous Model" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-139" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-136" target="Mk796hQfW07lgpaCvDOb-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-143" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-136" target="Mk796hQfW07lgpaCvDOb-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-136" value="Modeling" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-145" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mk796hQfW07lgpaCvDOb-138" target="Mk796hQfW07lgpaCvDOb-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-140" value="Stratified K-fold Cross Validation" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-142" value="1. Logistic Regression&lt;br&gt;2. Random Forest Classifier&lt;br&gt;3. LGBM" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-144" value="Stratified K-fold Cross Validation" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-99" value="Data Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-105" value="Model Evaluation" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mk796hQfW07lgpaCvDOb-138" value="Model Evaluation" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="253" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,39 +1,36 @@
-# 연구목적
+# SOCAR Auto Insurance Fraud Prediction
 
-# 개념설명
-
-# 방법론
-
-# 결과
-
-# 논의 및 결론
+The project carried out as part of 15th Data Science School.
+The project hopes contribute to the auto industry by reducing auto insurance fraud.
 
 
-# SOCAR Auto Insurance Fraud
+About Data
+The car crash data provided by SOCAR, a leading car sharing service in South Korea. 
+The data set consist of 16,000 car crash cases with 35 columns.
+
+Performance Evaluation Standard
+
+- The baseline was determined by using Class 14's performance.
+  - accuracy 0.493, precision 0.003, recall 0.714 
+  
+- Extremly imbalanced data
+  - only 41 cases were fraud out of 16,000 cases. If cases are predicted as "no fraud", accuracy wil be 0.997.
+  - Thus, precision and recall scores was also used to accurately evaluate the performance. 
 
 
-?? working with imbalanced data? and 
-The project aims to predict auto insurance fraud  
+Content
+
+- Data Exploration
+- Data Preprocessing
+- Modeling
+- Performance Evaluation
+- Conclusion
 
 
-The insurane fraude data set resmbles extremely 
+Data Exploration
+- 33 features did not show signifcant corellation
+- extreme data imbalance
 
-
-?? 개념설명 ??
-
-Through detecting fraudulant insurance claimn
-16,000 car crash data provided by SOCAR, a leading car sharing service in South Korea. The 
-
-
-
-Contents:
-
-1. Problem Statement
-2. Executive Summay
-2. About the Data
-3. Baseline Score
-Explortory 
-
-
-
-
+PreProcessing
+- attempted various preprocessing methods, but the performance did not improve significantly
+- The preprocessing resulted the best peformance is 

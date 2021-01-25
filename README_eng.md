@@ -1,4 +1,4 @@
-# SOCAR Auto Insurance Fraud Prediction
+# SOCAR Auto Insurance Fraud Predicti
 
 The project carried out as part of 15th Data Science School.
 The project hopes contribute to the auto industry by reducing auto insurance fraud.

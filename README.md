@@ -14,10 +14,10 @@
 - 데이터 불균형이 극심함.
   - 전체 데이터 중 Fraud 는 41개. 모든 사고를 No Fraud 로 예측시, accuracy 0.997.
   - 객관적인 성능 평가를 위하여 precision & recall 을 함께 평가함.
-  <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="600" height="200"/>
+  <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="600" height="200"/> <br>
 
 ## 구조도
-<img src="https://user-images.githubusercontent.com/72846750/105805353-294d1880-5fe5-11eb-83a2-905302636d75.png" width="600" height="700"/>
+<img src="https://user-images.githubusercontent.com/72846750/105805859-38809600-5fe6-11eb-8128-bed4bc8f39eb.png" width="600" height="700"/> <br>
 
 ## 과정
 - 데이터 탐색

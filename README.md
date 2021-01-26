@@ -17,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="600" height="200"/> <br>
 
 ## 구조도
-<img src="https://user-images.githubusercontent.com/72846750/105805859-38809600-5fe6-11eb-8128-bed4bc8f39eb.png" width="600" height="700"/> <br>
+<img src="https://user-images.githubusercontent.com/72846750/105805859-38809600-5fe6-11eb-8128-bed4bc8f39eb.png" width="650" height="760"/> <br>
 
 ## 과정
 - 데이터 탐색

@@ -34,8 +34,8 @@
   - 여러 전처리를 시도하였으나, 성능은 개선되지 않았음.
   - 최적의 성능을 가져온 전처리는 다음과 같음.
 
-## 참조
-1)https://programs.sbs.co.kr/culture/maninblackbox/clip/55706/OC451916010 <br><br>
+## 참조 논문
+1) https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches <br><br>
 
 ## 기여자
 * 김준성(a.k.a 튜닝몬스터) https://github.com/whistle-boy

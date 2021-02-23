@@ -28,7 +28,7 @@
 
 
 #### 6. 최종 모델
-본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같음. <br>
+본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같으며, LightGBM이 가장 높은 성능을 보임. <br>
 <img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="450" height="120"/> <br>
 
 #### 참조

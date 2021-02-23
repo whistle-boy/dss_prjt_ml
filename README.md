@@ -30,7 +30,7 @@
 
 ## 최종 모델
 본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같음. <br>
-<img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="400" height="100"/> <br>
+<img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="450" height="120"/> <br>
 
 ## 참조
 1) https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches <br><br>

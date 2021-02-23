@@ -13,8 +13,8 @@
 - 결론<br>
 
 #### 3. 데이터 불균형
-전체 16,000건의 데이터중에서 보험사기는 단 41건. 
-데이터 불균형을 해소하기 위해서 다양한 Oversampling 기법을 시도후, 평가하였음. <br>
+전체 16,000건의 데이터중에서 보험사기는 단 41건. <br>
+데이터 불균형을 해소하기 위해서 다양한 Oversampling 기법을 시도하여, 평가. <br>
 <img src="https://user-images.githubusercontent.com/72846750/105158413-4ac78380-5b51-11eb-8d2e-8b9462323210.png" width="300" height="200"/>
 
 #### 4. 데이터 전처리
@@ -22,6 +22,7 @@
 - 오버샘플링                
 - 스케일링                 
 - PCA를 통한 Feature 생성
+- 원핫인코딩
 - Feature Importance 확인후 특정 column 제거
 오버샘플링, Feature Importance 확인후 특정 column 제거만이 성능을 향상시킴.<br>
 
@@ -41,7 +42,8 @@
 <img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="450" height="120"/> <br>
 
 #### 참조
-1) https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches <br><br>
+1) Cross-Validation for Imbalanced Datasets: Avoiding Overoptimistic and Overfitting Approaches<br>
+https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches<br>
 
 #### 기여자
 * 김준성(a.k.a 튜닝몬스터) https://github.com/whistle-boy

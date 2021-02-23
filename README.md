@@ -28,15 +28,14 @@
 - 모델 평가
 - 결론
 
-## 상세
-- 데이터 탐색
-  - 33개 피처 중 별 다른 상관성은 없었음.
-  - 데이터 불균형이 극심함.
-- 데이터 전처리
-  - 여러 전처리를 시도하였으나, 성능은 개선되지 않았음.
-  - 최적의 성능을 가져온 전처리는 다음과 같음.
+## 최종 모델
+본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같음.
+- Decision Tree       : accuracy 
+- Random Forest
+- LightGBM
+- Logistic Regression : accuracy 0.964, recall 0.714, precision 0.043
 
-## 참조 논문
+## 참조
 1) https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches <br><br>
 
 ## 기여자

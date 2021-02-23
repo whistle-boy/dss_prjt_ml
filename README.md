@@ -17,6 +17,12 @@
 <img src="https://user-images.githubusercontent.com/72846750/105158413-4ac78380-5b51-11eb-8d2e-8b9462323210.png" width="300" height="200"/>
 
 #### 4. 데이터 전처리
+- 결측치 및 이상치 제거     
+- 오버샘플링                
+- 스케일링                 
+- PCA를 통한 Feature 생성
+- Feature Importance 확인후 특정 column 제거
+오버샘플링, Feature Importance 확인후 특정 column 제거만이 성능을 향상시킴.<br>
 
 
 #### 5. 평가 기준

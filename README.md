@@ -25,15 +25,12 @@
 - 데이터 탐색
 - 데이터 전처리
 - 모델링
-- 모델 평가
+- 모델 검증
 - 결론
 
 ## 최종 모델
-본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같음.
-- Decision Tree       : accuracy 
-- Random Forest
-- LightGBM
-- Logistic Regression <h2><h2>: accuracy 0.964, recall 0.714, precision 0.043
+본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같음. <br>
+<img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="650" height="760"/> <br>
 
 ## 참조
 1) https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches <br><br>

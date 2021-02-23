@@ -1,19 +1,21 @@
 # SOCAR 보험사기 예측 프로젝트
-본 프로젝트는 패스트캠퍼스 데이터사이언스 15기 수업에서 진행되었음.<br>
-보험사기로 멍들고 있는 카셰어링 업계에 기여할 수 있기를 희망함.
+해당 프로젝트는 패스트캠퍼스 데이터사이언티스트 15기 과정중 진행.<br>
+본 프로젝트는 머신러닝을 기반으로 카쉐어링업계에서 극심해지는 보험 사기를 예측해보기 위함에 있음.<br>
 
 ## 발표 자료
-첨부예정.
+첨부.<br>
 
 ## 데이터 수집
-데이터는 쏘카로부터 제공받았으며, 16,000 rows 와 35 columns 로 구성됨. <br>
+데이터는 카쉐어링 기업 SOCAR로부터 제공받았으며, 16,000 rows X 35 columns의 데이터임.<br>
+
+## 데이터 불균형
+전체 16,000건의 데이터중에서 보험사기는 단 41건.
+<img src="https://user-images.githubusercontent.com/72846750/105158413-4ac78380-5b51-11eb-8d2e-8b9462323210.png" width="300" height="200"/>
 
 ## 평가 기준
-- 전 기수인 14기에서 본 프로젝트로 얻었던 최적의 성능을 Baseline 으로 두었음.
+이전 기수인 14기에서 본 프로젝트로 얻었던 최적의 성능을 Baseline 으로 두었음.
   - accuracy 0.493, precision 0.003, recall 0.714
-- 데이터 불균형이 극심함.
-  - 전체 데이터 중 Fraud 는 41개. 모든 사고를 No Fraud 로 예측시, accuracy 0.997.
-  - 객관적인 성능 평가를 위하여 precision & recall 을 함께 평가함.
+데이터 불균형으로, 모든 사고를 No Fraud 로 예측시, accuracy 0.997. 객관적인 성능 평가를 위하여 precision, recall 을 평가 기준으로 결정.
   <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="600" height="200"/> <br>
 
 ## 구조도

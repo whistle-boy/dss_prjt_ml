@@ -9,7 +9,7 @@
 데이터는 카쉐어링 기업 SOCAR로부터 제공받았으며, 16,000 rows X 35 columns의 데이터임.<br>
 
 ## 데이터 불균형
-전체 16,000건의 데이터중에서 보험사기는 단 41건.
+전체 16,000건의 데이터중에서 보험사기는 단 41건. <br>
 <img src="https://user-images.githubusercontent.com/72846750/105158413-4ac78380-5b51-11eb-8d2e-8b9462323210.png" width="300" height="200"/>
 
 ## 평가 기준

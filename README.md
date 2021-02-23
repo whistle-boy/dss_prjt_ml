@@ -31,10 +31,10 @@
 본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="450" height="120"/> <br>
 
-## 참조
+#### 참조
 1) https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches <br><br>
 
-## 기여자
+#### 기여자
 * 김준성(a.k.a 튜닝몬스터) https://github.com/whistle-boy
 * 방희란(a.k.a 판다스의 신) https://github.com/Heeran-cloud
 * 정혜주(a.k.a 논문통찰자) https://github.com/hjung53

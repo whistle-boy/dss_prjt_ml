@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="600" height="200"/> <br>
 
 ## 구조도
-<img src="https://user-images.githubusercontent.com/72846750/105805859-38809600-5fe6-11eb-8128-bed4bc8f39eb.png" width="650" height="760"/> <br>
+<img src="https://user-images.githubusercontent.com/72846750/105805859-38809600-5fe6-11eb-8128-bed4bc8f39eb.png" width="500" height="610"/> <br>
 
 ## 과정
 - 데이터 탐색
@@ -30,7 +30,7 @@
 
 ## 최종 모델
 본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같음. <br>
-<img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="500" height="100"/> <br>
+<img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="400" height="100"/> <br>
 
 ## 참조
 1) https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches <br><br>

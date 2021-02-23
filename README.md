@@ -3,7 +3,7 @@
 본 프로젝트는 머신러닝을 기반으로 카쉐어링업계에서 극심해지는 보험 사기를 예측해보기 위함에 있음.<br>
 
 #### 1. 데이터 수집
-데이터는 카쉐어링 기업 SOCAR로부터 제공받았으며, 16,000 rows X 35 columns의 데이터.<br>
+데이터는 카쉐어링업체 SOCAR로부터 제공받았으며, 16000 rows X 35 columns의 데이터로 구성되어 있음.<br>
 
 #### 2. 진행 과정
 - 데이터 탐색
@@ -13,7 +13,7 @@
 - 결론<br>
 
 #### 3. 데이터 불균형
-전체 16,000건의 데이터중에서 보험사기는 단 41건. <br>
+전체 16000건의 데이터중에서 보험사기는 단 41건. <br>
 데이터 불균형을 해소하기 위해서 다양한 Oversampling 기법을 시도하여, 평가. <br>
 <img src="https://user-images.githubusercontent.com/72846750/105158413-4ac78380-5b51-11eb-8d2e-8b9462323210.png" width="300" height="200"/>
 
@@ -23,14 +23,15 @@
 - 스케일링                 
 - PCA를 통한 Feature 생성
 - 원핫인코딩
-- Feature Importance 확인후 특정 column 제거
-오버샘플링, Feature Importance 확인후 특정 column 제거만이 성능을 향상시킴.<br>
+- Feature Importance 확인후 Feature Extraction
+오버샘플링, Feature Importance 확인후 Feature Extraction만이 성능을 향상시킴.<br>
 
 
 #### 5. 평가 기준
 이전 기수인 14기에서 본 프로젝트로 얻었던 최적의 성능을 Baseline 으로 두었음.
   - accuracy 0.493, precision 0.003, recall 0.714
-데이터 불균형으로, 모든 사고를 No Fraud 로 예측시, accuracy 0.997. 객관적인 성능 평가를 위하여 precision, recall 을 평가 기준으로 결정.
+데이터 불균형으로, 모든 사고를 No Fraud 로 예측시, accuracy 0.997. accuracy는 중요한 평가 척도가 되기 어려움.<br>
+객관적인 성능 평가를 위하여 precision, recall 을 평가 기준으로 결정.
   <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="500" height="170"/> <br>
 
 #### 6. 구조도
@@ -38,7 +39,7 @@
 
 
 #### 7. 최종 모델
-본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같으며, LightGBM이 가장 높은 성능을 보임. <br>
+총 4가지를 모델로 다음과 같은 성과를 거두었으며, 그 중에서도 LightGBM이 가장 높은 성능을 보임. <br>
 <img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="450" height="120"/> <br>
 
 #### 참조

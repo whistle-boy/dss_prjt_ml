@@ -12,22 +12,24 @@
 - 모델 검증
 - 결론<br>
 
-
 #### 3. 데이터 불균형
-전체 16,000건의 데이터중에서 보험사기는 단 41건. <br>
+전체 16,000건의 데이터중에서 보험사기는 단 41건. 데이터 불균형으로 해소하기 위해서 다양한 Oversampling 기법을 시도후, 평가하였음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/105158413-4ac78380-5b51-11eb-8d2e-8b9462323210.png" width="300" height="200"/>
 
-#### 4. 평가 기준
+#### 4. 데이터 전처리
+
+
+#### 5. 평가 기준
 이전 기수인 14기에서 본 프로젝트로 얻었던 최적의 성능을 Baseline 으로 두었음.
   - accuracy 0.493, precision 0.003, recall 0.714
 데이터 불균형으로, 모든 사고를 No Fraud 로 예측시, accuracy 0.997. 객관적인 성능 평가를 위하여 precision, recall 을 평가 기준으로 결정.
   <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="500" height="170"/> <br>
 
-#### 5. 구조도
+#### 6. 구조도
 <img src="https://user-images.githubusercontent.com/72846750/105805859-38809600-5fe6-11eb-8128-bed4bc8f39eb.png" width="500" height="610"/> <br>
 
 
-#### 6. 최종 모델
+#### 7. 최종 모델
 본 프로젝트에서는 사용된 모델과 최종 성능은 아래와 같으며, LightGBM이 가장 높은 성능을 보임. <br>
 <img src="https://user-images.githubusercontent.com/72846750/108803330-c3e94900-75dd-11eb-9504-f51755183875.JPG" width="450" height="120"/> <br>
 

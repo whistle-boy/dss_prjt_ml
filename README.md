@@ -33,7 +33,7 @@
 - Decision Tree       : accuracy 
 - Random Forest
 - LightGBM
-- Logistic Regression : accuracy 0.964, recall 0.714, precision 0.043
+- Logistic Regression <h2><h2>: accuracy 0.964, recall 0.714, precision 0.043
 
 ## 참조
 1) https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches <br><br>

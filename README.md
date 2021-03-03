@@ -29,7 +29,8 @@
 
 #### 5. 평가 기준
 이전 기수인 14기에서 본 프로젝트로 얻었던 최적의 성능을 Baseline 으로 두었음.
-  - accuracy 0.493, precision 0.003, recall 0.714
+  - accuracy 0.493, precision 0.003, recall 0.714 <br>
+
 데이터 불균형으로, 모든 사고를 No Fraud 로 예측시, accuracy 0.997. accuracy는 중요한 평가 척도가 되기 어려움.<br>
 객관적인 성능 평가를 위하여 precision, recall 을 평가 기준으로 결정.
   <img src="https://user-images.githubusercontent.com/72846750/105166682-0b9e3000-5b5b-11eb-8eb0-947cc225af05.png" width="500" height="170"/> <br>
